@@ -1,16 +1,16 @@
 from PIL import Image
 import imageio
 
-# Declare path of the picture 
+# Declare path of the picture. e.q. below
 path = 'C:/Users/*user*/Desktop/picture.png'
 
-# Declare where the single pictures will be saved
-path_pictures = 'C:/Users/*user*/Desktop/pictures/pics3/'
+# Declare where the single pictures will be saved. e.q. below
+path_pictures = 'C:/Users/*user*/Desktop/pictures/'
 
-# Declare path of where the pic will be posted e.q. C:/Users/*user*/Desktop/
+# Declare path of where the pic will be posted. e.q. below
 gif_path = 'C:/Users/*user*/Desktop/gif.gif'
 
-# Declare name of the gif
+# Declare name of the gif. e.q. below
 gifname = 'name.gif'
 
 # Declare how many pixels will be shown per frame. 
